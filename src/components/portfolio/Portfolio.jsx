@@ -11,44 +11,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'QKart Application',
+    github: 'https://github.com/abhi5550/Front-End-Projects/tree/master',
+    demo: 'https://shimmering-salamander-e83632.netlify.app/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Crypto Currency & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'RiseUpp Search Application',
+    github: 'https://github.com/abhi5550/Front-End-Projects/tree/riseup_searchapp_react',
+    demo: 'https://abhinavs-frontend.netlify.app/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Crypto Currency & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'BookMyshow clone Application',
+    github: 'https://github.com/abhi5550/Front-End-Projects/tree/BookMyShowClone_React',
+    demo: 'https://cerulean-zuccutto-6663e0.netlify.app/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Crypto Currency & Financial Visualization',
+    title: 'Little Lemon Resturant table booking application',
     github: 'https://github.com',
     demo: 'https://dribble.com'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Crypto Currency & Financial Visualization',
+    title: 'Audio Wave Analyzer',
     github: 'https://github.com',
-    demo: 'https://dribble.com'
+    demo: 'https://stupendous-khapse-2b14c3.netlify.app/'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Crypto Currency & Financial Visualization',
+    title: 'Excel Sheet Application',
     github: 'https://github.com',
-    demo: 'https://dribble.com'
+    demo: 'https://elaborate-selkie-b29155.netlify.app/'
   }
 ];
 

@@ -2,6 +2,7 @@
     width: 40%;
     padding-bottom: 4rem;
 }
+
 .client_avatar {
     width: 4rem;
     aspect-ratio: 1/1;
@@ -9,15 +10,16 @@
     border: 0.4rem solid var(--color-primary-varaint);
     border-radius: 50%;
     margin: 0 auto 1rem;
-  
 }
-.testimonial{
+
+.testimonial {
     background: var(--color-bg-variant);
     text-align: center;
     padding: 2rem;
     border-radius: 2rem;
     user-select: none;
 }
+
 .client_review {
     color: var(--color-light);
     font-weight: 300;
@@ -25,25 +27,35 @@
     width: 80%;
     margin: 0.8rem auto 0;
 }
+
 .swiper-pagination-clickable .swiper-pagination-bullet {
     background: var(--color-primary);
-
 }
 
 /*====================== MEDIA QUERIES (MEDIUM DEVICES) ==============*/
-@media screen and (max-width: 1024){
-    .container.testimonial_container{
-        width: 60%
+@media screen and (max-width: 1024px){
+    .container.testimonial_container {
+        width: 60%;
     }
 }
+
 /*====================== MEDIA QUERIES (SMALL DEVICES) ==============*/
-@media screen and (max-width : 600px){
-    .portfolio_container{
-        width: var(--container-width-sm)
+@media screen and (max-width: 600px){
+    .portfolio_container {
+        width: var(--container-width-sm);
     }
     .client_review {
         width: var(--container-width-sm);
     }
 }
 
-    
+/* ==================== NEW MODAL STYLES ==================== */
+
+
+/* View Proof link style under testimonial */
+.view_proof_link {
+    color: var(--color-primary);
+    text-decoration: underline;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
