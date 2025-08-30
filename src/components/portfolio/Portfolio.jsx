@@ -27,14 +27,14 @@ const data = [
     image: IMG3,
     title: 'BookMyshow clone Application',
     github: 'https://github.com/abhi5550/Front-End-Projects/tree/BookMyShowClone_React',
-    demo: 'https://cerulean-zuccutto-6663e0.netlify.app/'
+    demo: 'https://abhi5550-book-my-show.netlify.app/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Little Lemon Resturant table booking application',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'Online Job Portal Using React And Sanity',
+    github: 'https://github.com/abhi5550/Job-portal',
+    demo: 'https://job-portal-ashen-eight.vercel.app/'
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const data = [
     image: IMG6,
     title: 'Excel Sheet Application',
     github: 'https://github.com',
-    demo: 'https://elaborate-selkie-b29155.netlify.app/'
+    demo: 'https://abhi5550-excel-sheet-project.netlify.app/'
   }
 ];
 
