@@ -6,7 +6,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 // Images
-import Sakar from '../../assets/Sakar.PNG'
+import Sakar from '../../assets/sakar.png'
 import MoniKa from '../../assets/Monika.PNG'
 import Sindhu from '../../assets/Sindhu.png'
 import Sindhu1 from '../../assets/Sindhu1.png'
