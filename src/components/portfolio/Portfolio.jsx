@@ -27,14 +27,14 @@ const data = [
     image: IMG3,
     title: 'BookMyshow clone Application',
     github: 'https://github.com/abhi5550/Front-End-Projects/tree/BookMyShowClone_React',
-    demo: 'https://abhi5550-book-my-show.netlify.app/'
+    demo: 'https://book-my-show-clone-five-mocha.vercel.app/'
   },
   {
     id: 4,
     image: IMG4,
     title: 'Online Job Portal Using React And Sanity',
     github: 'https://github.com/abhi5550/Job-portal',
-    demo: 'https://job-portal-ashen-eight.vercel.app/'
+    demo: 'https://job-portal-three-steel.vercel.app/'
   },
   {
     id: 5,
